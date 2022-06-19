@@ -1,0 +1,24 @@
+population.size = 162
+offspring.fraction = 0.66
+phenotype.maximum.age = 32700
+generation.limit = 1000
+
+speciation.threshold = 2.4
+staleness.max = 15
+
+compatibility.excess = 1.0
+compatibility.disjoint = 1.0
+compatibility.weight = 0.8
+
+mutation.addSynapse = 0.09
+mutation.addSynapse.maxTries = 100
+mutation.addNode = 0.07
+mutation.disableSynapse = 0.31
+mutation.enableSynapse = 0.04
+mutation.modifyWeight = 0.8
+mutation.modifyWeight.perturb = 0.9
+mutation.modifyWeight.perturb.step = 0.1
+
+crossover = 0.14
+
+evolution.thread.pool = 8

@@ -1,0 +1,9 @@
+preserve.bestPhenotype = true
+preserve.configuration = true
+
+preservation.baseDirectory = incubator
+preservation.individualsDirectory = individuals
+preservation.configurationsDirectory = configuration
+
+
+preservation.gameDirectoryDailyFormat = yyyy-MM-dd

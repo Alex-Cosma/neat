@@ -1,0 +1,11 @@
+meta.maxGenerations = 10
+meta.population.size = 20
+
+meta.mutation.probability.bound.lower = 0.0001
+meta.mutation.probability.bound.upper = 1.0
+meta.offspring.fraction.bound.lower = 0.1
+meta.offspring.fraction.bound.upper = 0.95
+meta.population.bound.lower = 20
+meta.population.bound.upper = 250
+
+meta.evolution.thread.pool = 8
